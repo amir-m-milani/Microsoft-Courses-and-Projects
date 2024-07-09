@@ -8,6 +8,10 @@ public class WeatherForecast
 
     public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 
-    public int test3 { get; set; }
+
+    public int test2 { get; set; }
+    
+
+    
     public string test23 { get; set; }
 }
