@@ -10,5 +10,8 @@ public class WeatherForecast
 
 
     public int test2 { get; set; }
-    public object test { get; set; }
+    
+
+    
+    public string test23 { get; set; }
 }
